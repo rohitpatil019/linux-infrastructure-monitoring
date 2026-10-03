@@ -208,9 +208,9 @@ Through this project, I learned:
 #Author
 Rohit Pradip Patil
 Aspiring Technical Support Engineer
-**GitHub:** https://github.com/rohitpatil019
+**GitHub:** [github.com/rohitpatil019](https://github.com/rohitpatil019)
 
-**LinkedIn:** https://www.linkedin.com/in/rohit-patil-14166a278
+**LinkedIn:** [linkedin.com/in/rohit-patil-14166a278](https://www.linkedin.com/in/rohit-patil-14166a278)
 
 ---
 
