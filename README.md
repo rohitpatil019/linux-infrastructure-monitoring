@@ -174,33 +174,33 @@ Troubleshooting & Resolution
 
 #Learning Outcome
 Through this project, I learned:
-Linux server administration
-Linux command-line operations
-Apache HTTP Server (httpd) management
-AWS EC2 fundamentals
-CPU, memory, and disk monitoring
-Network troubleshooting
-IP addressing and routing basics
-Port and service troubleshooting
-System and Apache log analysis
-Python-based system monitoring
-Linux service management
-Basic monitoring automation
-Practical problem-solving
-Technical Support Engineer troubleshooting workflow
-Future Enhancements
-The project can be enhanced with:
-Email alerts for server problems
-CPU and memory threshold alerts
-Disk space alerts
-Web-based monitoring dashboard
-Real-time server monitoring
-Multiple server monitoring
-Automated service recovery
-Database service monitoring
-AWS CloudWatch integration
-SMS or notification alerts
-Historical monitoring reports
+-linux server administration
+-Linux command-line operations
+-Apache HTTP Server (httpd) management
+-AWS EC2 fundamentals
+-CPU, memory, and disk monitoring
+-Network troubleshooting
+-IP addressing and routing basics
+-Port and service troubleshooting
+-System and Apache log analysis
+-Python-based system monitoring
+-Linux service management
+-Basic monitoring automation
+-Practical problem-solving
+-Technical Support Engineer troubleshooting workflow
+-Future Enhancements
+-The project can be enhanced with:
+-Email alerts for server problems
+-CPU and memory threshold alerts
+-Disk space alerts
+-Web-based monitoring dashboard
+-Real-time server monitoring
+-multiple server monitoring
+-Automated service recovery
+-Database service monitoring
+-AWS CloudWatch integration
+-SMS or notification alerts
+-Historical monitoring reports
 
 ---
 
