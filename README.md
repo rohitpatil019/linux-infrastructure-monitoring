@@ -74,7 +74,10 @@ linux-infrastructure-monitoring/
 │   └── 08
 │
 └── README.md
-Technologies Used
+
+---
+
+#Technologies Used
 Technology
 Purpose
 Linux
@@ -95,14 +98,20 @@ DNS
 Name resolution
 Cron
 Monitoring automation
-Practical Task
+
+---
+
+#Practical Task
 The project involved setting up and managing a Linux server environment on AWS EC2 for practical Technical Support operations.
 The Linux server was configured with Apache HTTP Server (httpd) and used as the primary web service. Python was implemented to monitor system resources including CPU usage, memory usage, disk usage, and server information.
 Network troubleshooting activities were performed to verify connectivity, IP configuration, routing, DNS resolution, and listening ports.
 Apache service management was also practiced by monitoring the service status, simulating service failure, restoring the service, and verifying web server availability.
 System and Apache logs were analyzed to understand server events and identify possible issues.
 The project also included basic monitoring automation and maintenance of monitoring logs.
-Practical Architecture
+
+---
+
+#Practical Architecture
                          AWS Cloud
                             |
                             |
@@ -133,7 +142,11 @@ Practical Architecture
                          |            |            |
                       Network       Port        Service
                        Check        Check        Check
-Architecture Flow
+
+---
+
+
+#Architecture Flow
 User
   |
   v
@@ -155,7 +168,11 @@ Linux Server
   |
   v
 Troubleshooting & Resolution
-Learning Outcome
+
+---
+
+
+#Learning Outcome
 Through this project, I learned:
 Linux server administration
 Linux command-line operations
@@ -185,10 +202,19 @@ AWS CloudWatch integration
 SMS or notification alerts
 Historical monitoring reports
 
-Author
+---
+
+
+#Author
 Rohit Pradip Patil
 Aspiring Technical Support Engineer
-Skills Demonstrated
+**GitHub:** https://github.com/rohitpatil019
+
+**LinkedIn:** https://www.linkedin.com/in/rohit-patil-14166a278
+
+---
+
+#Skills Demonstrated
 Linux
 AWS EC2
 Apache HTTP Server
@@ -198,7 +224,9 @@ Troubleshooting
 System Monitoring
 Log Analysis
 
-Conclusion
+---
+
+#Conclusion
 The Linux Infrastructure Monitoring & Troubleshooting System provides practical experience in monitoring and maintaining a Linux server environment.
 The project demonstrates how a Technical Support Engineer can monitor system resources, verify services, troubleshoot network and server problems, analyze logs, and restore services when issues occur.
 This project helped me develop practical skills in Linux administration, Apache HTTP Server management, networking, troubleshooting, system monitoring, log analysis, and AWS EC2.
